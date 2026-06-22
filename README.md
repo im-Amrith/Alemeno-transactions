@@ -6,7 +6,7 @@ A backend service that ingests a dirty CSV of financial transactions, processes 
 asynchronously through a job queue, uses an LLM (Groq) to classify transactions and
 generate a narrative summary, and exposes results via a polling REST API.
 
-📹 **[Watch the Video Demo](https://drive.google.com/file/d/1g51MDKMnmPCRiN8OP-m3K3AmRftmEiB9/view?usp=sharing)**
+**[Watch the Video Demo](https://drive.google.com/file/d/1g51MDKMnmPCRiN8OP-m3K3AmRftmEiB9/view?usp=sharing)**
 
 ## Stack
 
